@@ -128,6 +128,6 @@ python scripts/run_system.py
 Based on the paper:  
 **"Fact-Centric Knowledge Web for Information Retrieval"**  
 A. Sinha & Y. Shiramatsu, IEEE/WIC WI-IAT 2024  
-[Link to Paper](https://pure.nitech.ac.jp/en/publications/fact-centric-knowledge-web-for-information-retrieval)
+[Link to Paper](https://ieeexplore.ieee.org/abstract/document/10973412)
 
 This repo was created as a research-driven ML project by **Murun Enkhtaivan**, M.S. in Data Science, graduating December 2025.
