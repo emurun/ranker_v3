@@ -10,7 +10,7 @@ from pinecone import Pinecone
 
 # Load configuration from config.yaml
 try:
-    with open('config.yaml', 'r') as config_file:
+    with open('config/config.yaml', 'r') as config_file:
         config = yaml.safe_load(config_file)
     PINECONE_API_KEY = config.get('pinecone_api_key')
     PINECONE_INDEX = config.get('pinecone_index', 'knowledge-web-index')
