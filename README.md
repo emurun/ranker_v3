@@ -14,6 +14,13 @@ By integrating a **GPT-based fact re-ranking module** into the original retrieva
 - **Hallucination Mitigation**: The system gracefully rejects incorrect answers when supporting facts are missing.
 
 
+## 🏗️ Architecture Overview
+
+![System Architecture](overview_architecture.png)
+
+The system integrates Neo4j knowledge graphs with Pinecone vector search and GPT-based fact re-ranking to improve multi-hop question answering accuracy.
+
+
 ## 🛠️ Tech Stack
 
 - `Python`
