@@ -1,0 +1,14 @@
+openai_api_key: "your_openai_api_key_here"
+
+pinecone_api_key: "your_pinecone_api_key_here"
+pinecone_env: "your_pinecone_environment"       # Pinecone environment (e.g., "gcp-starter")
+pinecone_index: "knowledge-web-index"  # Must be created in Pinecone dashboard
+
+neo4j_uri: "your_neo4j_uri_here"
+neo4j_user: "neo4j"
+neo4j_password: "your_neo4j_password_here"
+AURA_INSTANCEID: "your_aura_instance_id"
+AURA_INSTANCENAME: "your_aura_instance_name"
+
+embedding_model: "text-embedding-ada-002"
+retrieval_top_k: 5
