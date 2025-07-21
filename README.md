@@ -16,7 +16,7 @@ By integrating a **GPT-based fact re-ranking module** into the original retrieva
 
 ## 🏗️ Architecture Overview
 
-![System Architecture](overview_architecture.png)
+<img src="overview_architecture.png" alt="System Architecture" width="600">
 
 The system integrates Neo4j knowledge graphs with Pinecone vector search and GPT-based fact re-ranking to improve multi-hop question answering accuracy.
 
